@@ -1,6 +1,6 @@
 {
   "name": "openhuman",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "OpenHuman: Virtual human assistance for modern web",
   "license": "MIT",
   "main": "dist/index.cjs.js",
