@@ -1,7 +1,7 @@
 {
-  "name": "humanengine",
-  "version": "1.0.0",
-  "description": "HumanEngine: Engine for virtual human assistance",
+  "name": "openhuman",
+  "version": "0.0.1",
+  "description": "OpenHuman: Virtual human assistance for modern web",
   "license": "ISC",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
